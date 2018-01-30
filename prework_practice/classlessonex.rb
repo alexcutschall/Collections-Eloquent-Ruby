@@ -52,6 +52,6 @@ if __FILE__ == $0
 
   # Change to nil
   mg.names = nil
-  mg.say_hi
+  
   mg.say_bye
 end
